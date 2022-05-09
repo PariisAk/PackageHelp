@@ -1,0 +1,11 @@
+---
+title: "What does this package do?"
+author: "Parastoo Akbari, Ghazal Shahabadi"
+output: html_document
+---
+Stock market is the aggregation of buyers and sellers of stocks, which represent ownership claims on businesses. This might include securities listed on a public stock exchange, as well as stock that is only traded privately, such as shares of private companies. Stock market prediction has always been of great importance. However, predicting has always been challenging. Team-9 package helps in predicting stock price movement using sentiment analysis and web scrapping.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
