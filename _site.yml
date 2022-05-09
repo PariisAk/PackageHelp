@@ -1,5 +1,8 @@
 name: "Team-9 Packge Information"
 output_dir: docs
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 navbar:
   title: "Team-9 Packge Information"
   left:
