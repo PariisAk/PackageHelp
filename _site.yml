@@ -1,0 +1,9 @@
+name: "Team-9 Packge Information"
+output_dir: docs
+navbar:
+  title: "Team-9 Packge Information"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Functions"
+      href: about.html
